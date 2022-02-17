@@ -1,0 +1,10 @@
+Start program
+    create a variable 'sum'
+    create a variable 'x'
+    Create a do-while (x > 0) Loop 
+        prompt user for input
+        assign the input to 'x'
+        add 'x' to 'sum'
+    print 'sum'
+End program
+        
