@@ -1,0 +1,9 @@
+Start program
+    Prompt user to input the number of numbers they want to input.
+    Create an array of that length.
+    Create a variable "sum"
+    Loop through the array 
+        Prompt user to input a number
+        update "sum" to be equal to "sum + square of that number" 
+    Print "sum"
+End program
