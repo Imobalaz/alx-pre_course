@@ -1,0 +1,9 @@
+Start Program
+    Create array
+    Loop through the array
+        Load read numbers into the array
+    Loop through the array
+        Compare each element in the array with the other elements
+        If the element is which is being compared with is bigger then we switch the numbers
+    Print array
+End program
